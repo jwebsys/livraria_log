@@ -6,7 +6,8 @@ authors = ["Francisco S Junior <jwebsys@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "yes"
+python = "^3.9"
+Django = "^4.1.1"
 
 
 [build-system]
